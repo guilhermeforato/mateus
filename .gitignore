@@ -1,4 +1,3 @@
-
 # Unity
 Library/
 Temp/
@@ -8,7 +7,7 @@ obj/
 UserSettings/
 MemoryCaptures/
 
-# Xcode
+# Unity Xcode Build
 *.xcworkspace
 Pods/
 DerivedData/
@@ -17,3 +16,13 @@ DerivedData/
 *.mode2v3
 *.perspectivev3
 xcuserdata/
+xcshareddata/
+xcdebugger/
+*.xcassets/*
+!*.xcassets/Contents.json
+*.xcarchive
+*.DS_Store
+*.swp
+*.lock
+*.ipa
+*.dSYM
